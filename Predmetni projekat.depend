@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1516284587 source:d:\intersoft\predmetni projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"defs.h"
+	"slogbaketops.h"
+	"keyops.h"
+
+1516284510 d:\intersoft\predmetni projekat\defs.h
+	<time.h>
+
+1516212652 d:\intersoft\predmetni projekat\slogbaketops.h
+	<string.h>
+
+1516284838 d:\intersoft\predmetni projekat\keyops.h
+	<math.h>
+
+1516473030 source:d:\intersoft\baze podataka 1\predmetni projekat\main.c
+	<stdio.h>
+	<stdlib.h>
+	"defs.h"
+	"slogbaketops.h"
+	"keyops.h"
+	"fileops.h"
+	"higherops.h"
+
+1516473022 d:\intersoft\baze podataka 1\predmetni projekat\defs.h
+
+1516467976 d:\intersoft\baze podataka 1\predmetni projekat\slogbaketops.h
+	<string.h>
+
+1516471660 d:\intersoft\baze podataka 1\predmetni projekat\keyops.h
+	<math.h>
+
+1516467574 d:\intersoft\baze podataka 1\predmetni projekat\fileops.h
+
+1516466632 d:\intersoft\baze podataka 1\predmetni projekat\higherops.h
+
+1516473030 source:d:\intersoft\baze podataka 1\bp1_boris_jovanovic_ra12_2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	"defs.h"
+	"slogbaketops.h"
+	"keyops.h"
+	"fileops.h"
+	"higherops.h"
+
+1516473022 d:\intersoft\baze podataka 1\bp1_boris_jovanovic_ra12_2015\defs.h
+
+1516467976 d:\intersoft\baze podataka 1\bp1_boris_jovanovic_ra12_2015\slogbaketops.h
+	<string.h>
+
+1516471660 d:\intersoft\baze podataka 1\bp1_boris_jovanovic_ra12_2015\keyops.h
+	<math.h>
+
+1516467574 d:\intersoft\baze podataka 1\bp1_boris_jovanovic_ra12_2015\fileops.h
+
+1516466632 d:\intersoft\baze podataka 1\bp1_boris_jovanovic_ra12_2015\higherops.h
+
